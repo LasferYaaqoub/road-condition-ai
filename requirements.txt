@@ -1,0 +1,5 @@
+This libraries are required to make the code work(install this libraries):
+Flask
+tensorflow
+numpy
+Pillow
