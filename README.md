@@ -12,7 +12,7 @@ The AI was trained on a dataset of thousands of road images. It uses advanced da
 
 ## How to Run it Locally
 1. Clone this repository:
-   `git clone https://github.com/YOUR_USERNAME/road-condition-ai.git`
+   `git clone https://github.com/LasferYaaqoub/road-condition-ai.git`
 2. Install the requirements:
    `pip install -r requirements.txt`
 3. Run the Flask server:
